@@ -1,7 +1,7 @@
 {
   "private": true,
   "scripts": {
-    "build": "hugo -D",
+    "build": "hugo",
     "start": "hugo server -D"
   }
 }
