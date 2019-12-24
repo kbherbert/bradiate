@@ -1,4 +1,4 @@
-baseURL = "https://example.com/"
+baseURL = "https://bradyh.com/"
 languageCode = "en-us"                                   # website language
 defaultContentLanguage = "en"                            # [en, zh, ...] determines which i18n file to use
 title = "Bradiate"                                       # website title
@@ -9,7 +9,7 @@ paginate = 12                                            # default amount of pos
 enableEmoji = true                                       # whether to use emoji code
 enableRobotsTXT = true                                   # whether to use robots.txt
 googleAnalytics = ""                                     # [UA-XXXXXXXX-X] google analytics code
-disqusShortname = "dillonzq"                             # Disqus shortname to use Disqus in posts
+disqusShortname = ""                                     # Disqus shortname to use Disqus in posts
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
                                                          # copyright description used only for seo schema
 
@@ -59,8 +59,8 @@ staticDir = ["static", "../assets/others"]               # static directories
 
 [params]
   version = "5.x"                                        # LoveIt theme version
-  description = "LoveIt Theme Demo"                      # site description
-  keywords = ["XXXX", "Theme", "Hugo"]                   # site keywords
+  description = "The online portfolio and blog of Brady Herbert"  # site description
+  keywords = ["Brady Herbert", "Louisville", "Developer"] # site keywords
 
                                                       #### Home Page Info
   home_mode = "post"                                     # [post, other] home mode
@@ -111,9 +111,9 @@ staticDir = ["static", "../assets/others"]               # static directories
     email = ""
 
   [params.social]                                        # Social Info in home page
-    GitHub = "xxxx"
-    Linkedin = "xxxx"
-    Twitter = "xxxx"
+    GitHub = "kbherbert"
+    Linkedin = "brady-herbert-93920624"
+    Twitter = "kbherbert"
     #Instagram = "xxxx"
     #Email = "xxxx"
     Facebook = "xxxx"
