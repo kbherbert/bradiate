@@ -2,3 +2,5 @@
 .env.build
 public
 resources
+package.json
+node_modules
