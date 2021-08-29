@@ -3,5 +3,22 @@
   "scripts": {
     "build": "hugo",
     "start": "hugo server -D"
+  },
+  "name": "bradiate",
+  "description": "This app is a brief example of a [Hugo](https://gohugo.io/) app deployed with Vercel Now serverless platform.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kbherbert/bradiate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kbherbert/bradiate/issues"
+  },
+  "homepage": "https://github.com/kbherbert/bradiate#readme",
+  "devDependencies": {
+    "hugo": "0.0.3"
   }
 }
